@@ -10,3 +10,12 @@ input[type=text] {
 input[type=text]:focus {
     border: 3px solid #555;
 }
+
+.center-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
